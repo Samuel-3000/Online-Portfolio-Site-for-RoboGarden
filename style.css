@@ -1,0 +1,47 @@
+#hoverbutton1{
+        color: #fff;
+        border: none;
+        padding: 10px 20px;
+        display: inline-block;
+        text-decoration: none;
+        font: bold 18px sans-serif;
+        background: #fd7c2a;
+        -webkit-transition: background 2s; /* For Safari 3.0 to 6.0 */
+        transition: background 2s; /* For modern browsers */
+    }
+    #hoverbutton1:hover {
+        background: #3cc16e;
+    }
+@keyframes mymove {
+  from {background-color: purple;}
+  to {background-color: blue;}
+}
+a {
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    display: inline-block;
+    text-decoration: none;
+    font: bold 18px sans-serif;
+    background: #fd7c2a;
+    -webkit-transition: background 2s; /* For Safari 3.0 to 6.0 */
+    transition: background 2s; /* For modern browsers */
+}
+a:hover {
+    background: #3cc16e;
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  h1{
+      color:#00c44b;
+  }
