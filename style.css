@@ -17,3 +17,10 @@ a:hover {
 h1{
       color:#00c44b;
   }
+body{
+    background-image: url("https://www.nasa.gov/images/content/690958main_p1237a1.jpg");
+    color: rgb(152, 43, 255);
+}
+h2, h3, p, li{
+    background-color: rgba(251, 255, 0, 0.884);
+}
